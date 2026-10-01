@@ -1,0 +1,6 @@
+{
+  "name": "Volanta - Quiet Luxury Mobility",
+  "description": "Plataforma concierge de movilidad privada y alquiler de vehículos de alta gama entre propietarios seleccionados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
